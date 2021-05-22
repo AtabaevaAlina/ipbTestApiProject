@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "APIiProBonus",
+        "repositoryURL": "git@github.com:AtabaevaAlina/APIiProBonus.git",
+        "state": {
+          "branch": "main",
+          "revision": "334e04e21c10063cc15792616918a86265f7a5ba",
+          "version": null
+        }
+      },
+      {
+        "package": "BonusBarView",
+        "repositoryURL": "https://github.com/AtabaevaAlina/BonusBarView.git",
+        "state": {
+          "branch": "main",
+          "revision": "5f5fe7978405722c29037b2a39aae36271f3bda9",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
